@@ -3,4 +3,4 @@ Blockgames Task Two attempt. Create a simple smart contract that has 2 functions
 
 
 Contract Address
-0x5cb097be31e3d4a27eb56926ffcb58dbbf37d7cc
+https://rinkeby.etherscan.io/address/0x702628e2597514da954cda24c7d573b2b95e8129
